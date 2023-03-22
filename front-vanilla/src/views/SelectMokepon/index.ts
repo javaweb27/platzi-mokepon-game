@@ -1,0 +1,1 @@
+export { SelectMokepon } from "./SelectMokepon"

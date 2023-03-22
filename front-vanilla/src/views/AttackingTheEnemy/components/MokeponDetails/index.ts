@@ -1,0 +1,1 @@
+export { MokeponDetails } from "./MokeponDetails"

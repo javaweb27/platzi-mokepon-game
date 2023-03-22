@@ -1,0 +1,1 @@
+export { sendPosition } from "./sendPosition"
